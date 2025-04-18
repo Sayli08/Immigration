@@ -30,3 +30,10 @@ USING CET LIST
 - Briefly mention your relevant past experiences and expertise that have brought you to this point in your career.
 
 The goal of this approach is to paint a clear and compelling picture for USCIS of your work's relevance and your qualifications, directly addressing the first prong of the National Interest Waiver requirements. By being specific and providing context, you make a stronger case that your endeavor has both substantial merit and national importance.
+
+
+## TIPS
+
+! The core of the NIW is demonstrating that your contributions are of national importance and that you possess qualifications significantly above the ordinary.
+
+Here's how to approach answering "How do you stand out in your team?
