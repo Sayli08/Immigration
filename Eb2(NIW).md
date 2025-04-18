@@ -16,7 +16,9 @@ C] Third it would be beneficial for the US to waive the labor certification requ
 2] Exceptional Ability: This is defined as having a degree of expertise significantly above that ordinarily encountered in the sciences, arts, or business.1 One way to demonstrate exceptional ability is by having a bachelor's degree plus at least five years of progressive post-baccalaureate experience in your field
 
 
-# Strategy for describing and framing your current work in your EB-2 NIW petition to demonstrate the first prong: that your proposed endeavor has substantial merit and national importance.
+# Strategy for describing and framing your current work in your EB-2 NIW petition to demonstrate the first prong: that your proposed endeavor has substantial merit and national importance. 
+USING CET LIST 
+
 - Introduce and define the core area of your current work. It emphasizes being specific rather than using broad terms like just "technology" or "computer science." By focusing on "data privacy," "data security," and "cybersecurity technology," and even more specifically on "privacy-enhancing technologies," you're pinpointing a field that has clear relevance to national security and economic well-being in the digital age
 - Need to provide concrete details about your actual work. It's not enough to just state the field. You need to describe the specific projects you're involved in, the tasks you undertake, and the different aspects of these technologies that you work with. This provides substance and shows USCIS the tangible nature of your contributions.
 - Emphasizes the importance of connecting your current work to your background and expertise. By briefly mentioning your past experiences and how they've shaped your current skills and focus, you establish a trajectory and demonstrate that you have a solid foundation for your current endeavors. This adds credibility and shows that your current work is not an isolated effort but rather the result of accumulated knowledge and experience.
