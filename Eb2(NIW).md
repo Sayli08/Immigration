@@ -37,3 +37,10 @@ The goal of this approach is to paint a clear and compelling picture for USCIS o
 ! The core of the NIW is demonstrating that your contributions are of national importance and that you possess qualifications significantly above the ordinary.
 
 Here's how to approach answering "How do you stand out in your team?
+
+
+## Work you do has an impact outside the company 
+- Like it is advancement in the technology
+- Like it is of economic interest
+
+## Need to show how your field is of NAtional Interst 
